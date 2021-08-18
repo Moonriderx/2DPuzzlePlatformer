@@ -44,17 +44,12 @@ Gravity Flip Jump
 Ladder Climb
 Climb
 
-https://user-images.githubusercontent.com/65513534/129934134-c7daa890-4a3b-47ee-b4ea-39221850ad33.mp4
-
-
-
 **Enemy:**
 
 Different Enemies
 Different Abilities
 Different Enemy States
 Different Bosses
-
 
 **Platforming:**
 
@@ -75,7 +70,6 @@ Grab/Pick/Pull/Throw
 Swing Rope 
 Climbing Area
 
-
 **Combat:**
 Combat
 Different Combat State
@@ -83,12 +77,12 @@ Different Abilities
 Different Weapons
 Simple Combos
 
-
 **Art Style:**
 
 Beautiful Atmosphere
 Carefully Painted Graphics
 Atmosphere Music
+Beautiful Visual Effects
 
 
 
