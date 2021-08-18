@@ -29,60 +29,60 @@ Here is a brief showcase of what the game will contains: (**more will be added d
 
 **Character:**
 
-Walk [x]
-Jump [x]
-Double Jump (multiple jumps) [x]
-Variable Height Jump [x]
-Wall Slide + [x]
-Ledge Grab + [x]
-Wall Jump [x]
-Ground Pound Jump
-Height Jump
-Run
-Coyote Time
-Gravity Flip Jump
-Ladder Climb
-Climb
+- Walk [x]
+- Jump [x]
+- Double Jump (multiple jumps) [x]
+- Variable Height Jump [x]
+- Wall Slide + [x]
+- Ledge Grab + [x]
+- Wall Jump [x]
+- Ground Pound Jump
+- Height Jump
+- Run
+- Coyote Time
+- Gravity Flip Jump
+- Ladder Climb
+- Climb
 
 **Enemy:**
 
-Different Enemies
-Different Abilities
-Different Enemy States
-Different Bosses
+- Different Enemies
+- Different Abilities
+- Different Enemy States
+- Different Bosses
 
 **Platforming:**
 
-Lever Mechanics
-Trampolines
-Time Travel Mechanic
-Portals
-One Way Platforms
-Moving Platforms
-Random Events
-Physics Based Events
-Destructibles
-Collectibles
-Simple Quests
-Puzzles
-Physics Interactions
-Grab/Pick/Pull/Throw
-Swing Rope 
-Climbing Area
+- Lever Mechanics
+- Trampolines
+- Time Travel Mechanic
+- Portals
+- One Way Platforms
+- Moving Platforms
+- Random Events
+- Physics Based Events
+- Destructibles
+- Collectibles
+- Simple Quests
+- Puzzles
+- Physics Interactions
+- Grab/Pick/Pull/Throw
+- Swing Rope 
+- Climbing Area
 
 **Combat:**
-Combat
-Different Combat State
-Different Abilities
-Different Weapons
-Simple Combos
+
+- Different Combat States
+- Different Abilities
+- Different Weapons
+- Simple Combos
 
 **Art Style:**
 
-Beautiful Atmosphere
-Carefully Painted Graphics
-Atmosphere Music
-Beautiful Visual Effects
+- Beautiful Atmosphere
+- Carefully Painted Graphics
+- Atmosphere Music
+- Beautiful Visual Effects
 
 
 
