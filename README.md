@@ -29,7 +29,7 @@ Here is a brief showcase of what the game will contains: (**more will be added d
 
 **Character:**
 
-- Walk [x]
+- Walk :white_check_mark:
 - Jump [x]
 - Double Jump (multiple jumps) [x]
 - Variable Height Jump [x]
