@@ -30,14 +30,13 @@ Here is a brief showcase of what the game will contains: (**more will be added d
 **Character:**
 
 - Walk :white_check_mark:
-- Jump [x]
-- Double Jump (multiple jumps) [x]
-- Variable Height Jump [x]
-- Wall Slide + [x]
-- Ledge Grab + [x]
-- Wall Jump [x]
+- Jump :white_check_mark:
+- Double Jump (multiple jumps) :white_check_mark:
+- Variable Height Jump :white_check_mark:
+- Wall Slide :white_check_mark:
+- Ledge Grab :white_check_mark:
+- Wall Jump :white_check_mark:
 - Ground Pound Jump
-- Height Jump
 - Run
 - Coyote Time
 - Gravity Flip Jump
@@ -46,7 +45,7 @@ Here is a brief showcase of what the game will contains: (**more will be added d
 
 **Enemy:**
 
-- Different Enemies
+- Different Enemies :white_check_mark:
 - Different Abilities
 - Different Enemy States
 - Different Bosses
@@ -54,10 +53,10 @@ Here is a brief showcase of what the game will contains: (**more will be added d
 **Platforming:**
 
 - Lever Mechanics
-- Trampolines
+- Trampolines :white_check_mark:
 - Time Travel Mechanic
-- Portals
-- One Way Platforms
+- Portals :white_check_mark:
+- One Way Platforms :white_check_mark:
 - Moving Platforms
 - Random Events
 - Physics Based Events
