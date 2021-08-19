@@ -82,6 +82,7 @@ Here is a brief showcase of what the game will contain: (**more will be added du
 - Carefully Painted Graphics
 - Atmosphere Music
 - Beautiful Visual Effects
+- Unique Animations
 
 
 
