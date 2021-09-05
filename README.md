@@ -57,7 +57,7 @@ Here is a brief showcase of what the game will contain: (**more will be added du
 - Time Travel Mechanic
 - Portals :white_check_mark:
 - One Way Platforms :white_check_mark:
-- Moving Platforms
+- Moving Platforms :white_check_mark:
 - Random Events
 - Physics-Based Events
 - Destructible
