@@ -58,7 +58,7 @@ Here is a brief showcase of what the game will contain: (**more will be added du
 - Portals :white_check_mark:
 - One Way Platforms :white_check_mark:
 - Moving Platforms :white_check_mark:
-- Random Events
+- Random Events (Lasers, Spikes, Obsticles, etc..)
 - Physics-Based Events
 - Destructible
 - Collectibles
