@@ -63,6 +63,7 @@ Here is a brief showcase of what the game will contain: (**more will be added du
 - Destructible
 - Collectibles
 - Simple Quests
+- Dialogue System
 - Puzzles
 - Physics Interactions
 - Grab/Pick/Pull/Throw
