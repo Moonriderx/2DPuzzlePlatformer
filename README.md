@@ -42,6 +42,7 @@ Here is a brief showcase of what the game will contain: (**more will be added du
 - Gravity Flip Jump
 - Ladder Climb
 - Climb Area
+- Inventory
 
 **Enemy:**
 
