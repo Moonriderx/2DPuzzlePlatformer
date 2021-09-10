@@ -65,7 +65,7 @@ Here is a brief showcase of what the game will contain: (**more will be added du
 - Collectibles
 - Simple Quests
 - Dialogue System
-- Puzzles
+- Puzzle elements
 - Physics Interactions
 - Grab/Pick/Pull/Throw
 - Swing Rope 
