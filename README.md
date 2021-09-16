@@ -38,7 +38,7 @@ Here is a brief showcase of what the game will contain: (**more will be added du
 - Wall Jump :white_check_mark:
 - Ground Pound Jump
 - Run
-- Coyote Time
+- Coyote Time :white_check_mark:
 - Gravity Flip Jump
 - Ladder Climb
 - Climb Area
